@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&display=swap');
+#app {
+  min-height: 90vh;
+  font-family: 'Patrick Hand SC', cursive;
+  color: white;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  user-select: none;
+}
+*{
+  background-color: black;
+}
+.row{
+
+background: rgba( 255, 255, 255, 0.05 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 13.5px );
+border-radius: 1px;
+-webkit-backdrop-filter: blur( 13.5px );
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
