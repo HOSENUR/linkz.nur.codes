@@ -4,7 +4,5 @@ VANTA.HALO({
   touchControls: true,
   gyroControls: true,
   minHeight: 200.00,
-  minWidth: 200.00,
-  backgroundColor: 0x0
-
+  minWidth: 200.00
 })
